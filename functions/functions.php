@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect ("localhost", "admin", "admin", "vinylshop");
+$con = mysqli_connect ("localhost", "id2498594_admin", "nfqakademija", "id2498594_vinylshop");
 //getting users IP
 function getIp() {
     $ip = $_SERVER['REMOTE_ADDR'];
